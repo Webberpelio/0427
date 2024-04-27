@@ -3,3 +3,7 @@ nextday
 hello
 
 edit after "git add 001.txt"
+
+abcd
+
+efgh
